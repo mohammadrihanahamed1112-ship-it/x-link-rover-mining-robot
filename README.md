@@ -13,6 +13,7 @@ To improve miner safety by detecting hazardous gases and reducing human exposure
 - Motor driver (L298N)
 - Gas sensors (MQ series)
 - X-Link expansion mechanism
+- ESP32
 
 ##  Working
 The rover moves using motor-driven wheels. Gas sensors detect harmful gases like methane or carbon monoxide.  
